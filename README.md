@@ -1,2 +1,2 @@
 # Treinando-repositorio-github
-Projeto - GitHub 
+Projeto - GitHub - Repositorio criado
